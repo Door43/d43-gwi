@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gwi:home|Door43 (gwi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gwi|d43-gwi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gwi/archive/master.zip|d43-gwi.zip]]
+
+**Recent Changes**
+{{changes>ns = gwi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gwi|Ethnologue data]]
+
